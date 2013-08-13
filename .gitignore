@@ -47,3 +47,5 @@ results
 
 npm-debug.log
 node_modules
+*.min.css
+*.min.js
